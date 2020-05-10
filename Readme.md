@@ -16,3 +16,5 @@ $ git clone https://github.com/GITSALAHE/Event_php.git
 
 http://localhost/event/
 
+### VISIT WEBSITE RESULT
+https://event-php.herokuapp.com/index.php
